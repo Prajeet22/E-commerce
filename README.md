@@ -124,24 +124,6 @@ npm start
     <li>Admins can access the admin panel at <code>/admin</code>.</li>
 </ol>
 
-<hr>
-
-<h2>📸 Screenshots</h2>
-<table>
-    <tr>
-        <th>Home Page</th>
-        <th>Product Page</th>
-        <th>Admin Panel</th>
-    </tr>
-    <tr>
-        <td><img src="./screenshots/home.png" alt="Home" width="300"></td>
-        <td><img src="./screenshots/product.png" alt="Product" width="300"></td>
-        <td><img src="./screenshots/admin.png" alt="Admin" width="300"></td>
-    </tr>
-</table>
-
-<hr>
-
 <h2>🚀 Future Improvements</h2>
 <ul>
     <li>Add product reviews and ratings</li>
