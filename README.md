@@ -73,16 +73,16 @@ cd E-commerce
 <strong>Frontend</strong>
 <pre>
 <code>
-cd client
-npm install
+cd frontend
+npm run dev
 </code>
 </pre>
 
 <strong>Backend</strong>
 <pre>
 <code>
-cd server
-npm install
+cd backend
+npm run server
 </code>
 </pre>
 
@@ -101,16 +101,16 @@ STRIPE_SECRET_KEY=&lt;your-stripe-secret-key&gt;
 <strong>Backend:</strong>
 <pre>
 <code>
-cd server
-npm run dev
+cd backend
+npm run server
 </code>
 </pre>
 
 <strong>Frontend:</strong>
 <pre>
 <code>
-cd client
-npm start
+cd frontend
+npm run dev
 </code>
 </pre>
 
