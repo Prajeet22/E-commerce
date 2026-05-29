@@ -64,7 +64,7 @@
 <pre>
 <code>
 git clone https://github.com/Prajeet22/E-commerce
-cd shopease
+cd E-commerce
 </code>
 </pre>
 
